@@ -18,7 +18,9 @@ Antes de iniciar o projeto, certifique-se de ter o Node.js e o npm instalados em
 
 Isso iniciará o servidor Node.js usando o `nodemon`, que reinicia automaticamente o servidor sempre que houver alterações nos arquivos.
 
-2. Certifique-se de atualizar a variável `mongoUri` no arquivo `server.js` com a URL do seu cluster MongoDB válido.
+3.O servidor irá iniciar automaticamente no localhost:3000. Para trocar a porta basta mudar a variável port no server.js
+
+2.Certifique-se de atualizar a variável `mongoUri` no arquivo `server.js` com a URL do seu cluster MongoDB válido.
 
 ## Executando o Cliente
 
