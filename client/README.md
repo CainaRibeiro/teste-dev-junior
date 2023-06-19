@@ -12,7 +12,7 @@ Antes de iniciar o projeto, certifique-se de ter o Node.js e o npm instalados em
 
 2. Restaure as dependências do servidor executando o seguinte comando: npm install
 
-##Executando o servidor
+## Executando o servidor
 
 1.Na pasta do server, digite o comando: nodemon server.js
 
